@@ -28,7 +28,7 @@ server/
 |
 ├── venv
 ├── .env
-├── requirements.txt
+└── requirements.txt
 
 ```
 ---
